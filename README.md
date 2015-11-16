@@ -1,2 +1,6 @@
 # hello_world
-my first repository
+==============
+
+Hi Humans!
+
+I like Fish and Beer, Steaks and wine!!
